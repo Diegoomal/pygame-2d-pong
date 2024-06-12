@@ -21,12 +21,12 @@ This repository contains a classic 2D Pong game implemented using the Pygame lib
 
 Create CONDA env
 ```
-conda env create -n pygame-2d-pong-env -f ./env.yml
+conda env create -n pong-env -f ./env.yml
 ```
 
 Activate CONDA env
 ```
-conda activate pygame-2d-pong-env
+conda activate pong-env
 ```
 
 Execute game
