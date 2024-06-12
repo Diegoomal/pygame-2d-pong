@@ -30,7 +30,9 @@ score_right = 0
 
 # Game Loop
 running = True
+
 while running:
+
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False
