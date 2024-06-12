@@ -27,6 +27,7 @@ conda env create -n pygame-2d-pong-env -f ./env.yml
 Activate CONDA env
 ```
 conda activate pygame-2d-pong-env
+```
 
 Execute game
 ```
