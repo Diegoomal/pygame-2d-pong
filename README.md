@@ -32,9 +32,6 @@ python src/main.py
 ## Customization
 You can customize the game settings by modifying the config.py file. This includes changing the screen width and height, colors, paddle and ball speeds, and more.
 
-## Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests to improve the game.
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
